@@ -25,4 +25,4 @@ Create a single page app by using **Reactjs**, **Angular** or **Vue** to impleme
 
 
 
-After you finsih the test please zip them all to a single file and email to alanyu@lcjgroup.com
+After finsihing the test, please compress the source file and email to alanyu@lcjgroup.com and matthewlam@lcjgroup.com
