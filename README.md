@@ -3,6 +3,9 @@
 Fullstack engineer interview test for LCJG BetaLabs, expected time needed: < 24 hours
 
 ## Setup
+
+Please create a private repository on github and invite [matthewlamlcj](https://github.com/matthewlamlcj) as a collaborator
+
 Follow the steps to setup a mysql database in local
 - Install docker desktop and docker-compose (https://www.docker.com/products/docker-desktop)
 - Download the [database.zip](https://raw.githubusercontent.com/ayking/LCJG-Backend-Engineer-Test/master/database.zip)
