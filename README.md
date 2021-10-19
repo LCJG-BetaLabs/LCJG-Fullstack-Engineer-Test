@@ -8,7 +8,7 @@ Please create a private repository on github and invite [matthewlamlcj](https://
 
 Follow the steps to setup a mysql database in local
 - Install docker desktop and docker-compose (https://www.docker.com/products/docker-desktop)
-- Download the [database.zip](https://raw.githubusercontent.com/ayking/LCJG-Backend-Engineer-Test/master/database.zip)
+- Download the [database.zip](https://github.com/LCJG-BetaLabs/LCJG-Fullstack-Engineer-Test/raw/main/database.zip)
 - Run the following command inside the folder to start the database: `docker-compose  up --build --force-recreate --renew-anon-volumes db`
 
 ## Tasks
